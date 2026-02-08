@@ -1,3 +1,4 @@
+// Importing scanner class from util package to read the user input
 import java.util.Scanner;
 
 public class Ex02_04_HoistMotorKW {
