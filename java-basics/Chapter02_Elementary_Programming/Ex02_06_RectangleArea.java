@@ -1,6 +1,6 @@
 import java.util.Scanner;
-// If public class Main {}, file name should be Main.java, otherwise remove public class Main
-class Main {
+// If public class Main {}, file name should be Main.java, otherwise remove public, only class Main
+class Main { // remove public
 
     public static void main(String[] args) {
         
