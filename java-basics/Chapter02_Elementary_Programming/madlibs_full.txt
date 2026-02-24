@@ -1,0 +1,20 @@
+Script started on 2026-02-24 08:04:40+00:00 [COMMAND="java Ex02_07_MadLibsGame" TERM="tmux-256color" TTY="/dev/pts/2" COLUMNS="193" LINES="8"]
+Welcome to the Mad Libs Game!
+Enter an adjective: 
+awesome
+Enter a noun: 
+java
+Enter a verb (past tense): 
+loved
+Enter a verb (present tense): 
+compiles
+Enter an adverb: 
+smoothly
+Enter another adjective: confused
+
+--- This is my awesome Mad Libs Story ---
+Today I started the programming in java. It's just awesome . I just loved it.
+It compiles smoothly towards me.
+I felt very confused about the whole situation!
+
+Script done on 2026-02-24 08:05:43+00:00 [COMMAND_EXIT_CODE="0"]
